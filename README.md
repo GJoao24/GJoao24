@@ -1,5 +1,5 @@
 ### Hola 👋, my name is Joao
-![](https://cms-artifacts.artlist.io/content/generated-image-v1/image__4/generated-image-6e2c17a8-4e5a-4cf9-ab85-a5f6e246673d.jpg?Expires=2076596740&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=09os6Kf~Pe46rGoTmcrF8Ks4XpNeCSFMn8j--38Wvsl9rIT6E2XqDIoA09i9VDc22MszFtKklZtVxjUVtjXnbmzKjjax4GyQHoppCoIiO0Lokqbkr8cuKqwsw86KyS6~pFYnhZBwcmFhT60uNwuHrTLqy22BPw-jfcVlNx-~TsLUkFyKLPr33A81Thwp1PH3htTvYNBLQTbhQOuzdcSVW5IMIWCbA2nLcqZtJNJSMYCXJ7uNPDq5SlDIWrqXjinKpY4eRkfPpWnMHdqf6xDKBchtZx9zcTz~yANKXeSoVLJV3veHla59OYPpIgx4r9KhmAP-IKiB9CFXr5-jo9zbcg__)
+<img width="1222" height="599" alt="Banner Programador" src="https://github.com/user-attachments/assets/7621048c-b56b-4f48-a14f-6b6cbdb1faff" />
 Desarrollador Full Stack apasionado por crear aplicaciones web centradas en el usuario. Experiencia en JavaScript, React, Python y SQL. Con interés por el aprendizaje continuo y orientado a resultados
 
 Habilidades: VUE JS / REACT / JavaScript / HTML / CSS / Bootstrap
